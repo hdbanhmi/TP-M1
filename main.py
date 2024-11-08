@@ -6,6 +6,6 @@ print('aurevoir')
 
 print('bonjour')
 
-print('salut')
+print('salut mec')
 
 print('hello')
